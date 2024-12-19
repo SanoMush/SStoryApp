@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight">
+        <!-- Customize your light theme here. -->
+    </style>
+
+    <!-- Gunakan tema yang berbasis AppCompat -->
+    <style name="Theme.SStoryApp" parent="Theme.AppCompat.DayNight">
+        <!-- Customize your dark or light theme here -->
+    </style>
+
+</resources>
